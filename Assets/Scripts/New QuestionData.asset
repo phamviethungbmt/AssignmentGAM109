@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8ee841a1aa8d794694b57d698a93464, type: 3}
+  m_Name: New QuestionData
+  m_EditorClassIdentifier: 
+  questions:
+  - questtionText: "DakLak l\xE0 \u1EDF \u0111au?"
+    answers:
+    - VN
+    - LAO
+    - CAMPUCHIA
+    - "SAO H\u1ECEA"
+    correctAnswerIndex: 0
+  - questtionText: "Voi C\xF3 m\u1EA5y ch\xE2n?"
+    answers:
+    - 1
+    - 2
+    - 3
+    - 4
+    correctAnswerIndex: 3
+  - questtionText: "Ai \u0111\u1EB7t ch\xE2n l\xEAn m\u1EB7t tr\u1EDDi \u0111\xE0u
+      ti\xEAn?"
+    answers:
+    - superman
+    - "w\u01A1nderwomen"
+    - "con ng\u01B0\u1EDDi"
+    - Alien
+    correctAnswerIndex: 0
+  - questtionText: "T\u01B0\u1EE3ng \u0111\xE0i chi\u1EBFn th\u1EAFng \u1EDF \u0111\xE2u"
+    answers:
+    - "ng\xE3 4"
+    - "ng\xE3 5"
+    - "ng\xE3 6"
+    - "ng\xE3 v\xE0o l\xF2ng e"
+    correctAnswerIndex: 2
